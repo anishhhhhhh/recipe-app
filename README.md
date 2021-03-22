@@ -1,4 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app helps you to find some of the beautiful recipes on the internet!</br>
+You can check it out over here [Recipe](https://recipe-d0d27.web.app/)
 
 ## Available Scripts
 
